@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactPwaPages/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/reactPwaPages/static/js/main.355f10cc.chunk.js",
+    "main.js.map": "/reactPwaPages/static/js/main.355f10cc.chunk.js.map",
+    "runtime-main.js": "/reactPwaPages/static/js/runtime-main.dbed3fda.js",
+    "runtime-main.js.map": "/reactPwaPages/static/js/runtime-main.dbed3fda.js.map",
+    "static/js/2.d6233653.chunk.js": "/reactPwaPages/static/js/2.d6233653.chunk.js",
+    "static/js/2.d6233653.chunk.js.map": "/reactPwaPages/static/js/2.d6233653.chunk.js.map",
+    "static/js/3.3130f3c5.chunk.js": "/reactPwaPages/static/js/3.3130f3c5.chunk.js",
+    "static/js/3.3130f3c5.chunk.js.map": "/reactPwaPages/static/js/3.3130f3c5.chunk.js.map",
+    "index.html": "/reactPwaPages/index.html",
+    "service-worker.js": "/reactPwaPages/service-worker.js",
+    "service-worker.js.map": "/reactPwaPages/service-worker.js.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/reactPwaPages/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.d6233653.chunk.js.LICENSE.txt": "/reactPwaPages/static/js/2.d6233653.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/reactPwaPages/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbed3fda.js",
+    "static/js/2.d6233653.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.355f10cc.chunk.js"
+  ]
+}
